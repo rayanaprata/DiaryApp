@@ -7,7 +7,7 @@
 
 import UIKit
 
-class HomeView: UIView {
+final class HomeView: UIView {
     
     private let labelTitle: UILabel
     private let buttonStart: UIButton
